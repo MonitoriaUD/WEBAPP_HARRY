@@ -1,0 +1,5 @@
+<iframe src="https://aulasvirtuales.udistrital.edu.co/mod/hvp/embed.php?id=432127" width="1000" height="1114" frameborder="0" allowfullscreen="allowfullscreen" title="Juego Interactivo para aprender CSS"></iframe>
+<iframe src="https://aulasvirtuales.udistrital.edu.co/mod/hvp/embed.php?id=429821" width="1000" height="1142" frameborder="0" allowfullscreen="allowfullscreen" title="Ejercicio practico en JAVA"></iframe>
+<iframe src="https://aulasvirtuales.udistrital.edu.co/mod/hvp/embed.php?id=426092" width="1000" height="255" frameborder="0" allowfullscreen="allowfullscreen" title="Uso de Java y MySQL"></iframe>
+<iframe src="https://aulasvirtuales.udistrital.edu.co/mod/hvp/embed.php?id=360895" width="1000" height="297" frameborder="0" allowfullscreen="allowfullscreen" title="Ejercicio con preguntas guía - Determinar si una palabra es palíndromo usando JavaScript"></iframe>
+<iframe src="https://aulasvirtuales.udistrital.edu.co/mod/hvp/embed.php?id=432150" width="1001" height="1026" frameborder="0" allowfullscreen="allowfullscreen" title="Juego Interactivo para aprender CSS 2"></iframe>     

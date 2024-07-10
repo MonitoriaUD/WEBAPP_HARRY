@@ -1,0 +1,85 @@
+{
+    "Semestre": "4",
+    "Malla Renglon": "8",
+    "Código del Espacio": "",
+    "Espacio Académico": "Segunda Lengua I",
+    "Teórico": "X",
+    "Teórico-práctico": "",
+    "Práctico": "",
+    "Número de Créditos": "2",
+    "Horas Trabajo Directo": "",
+    "Horas Trabajo Colaborativo": "",
+    "Horas Trabajo Autónomo": "",
+    "Obligatorio": "X",
+    "Básico": "",
+    "Complementario": "X",
+    "Electivo": "",
+    "Intríseco": "",
+    "Extrínseco": "",
+    "Clase magistral": "",
+    "Seminario": "",
+    "Seminario-Taller": "",
+    "Taller": "",
+    "Prácticas": "",
+    "Proyectos con tutoría": "",
+    "Conocimientos previos del curso": "",
+    "Prerrequisitos": "",
+    "Es prerrequisito de": "",
+    "Habilidades y Resultados de Aprendizaje": {
+        "Col_1a": {
+            "col2a": {
+                "col3a": [
+                    "col4a",
+                    "col4b"
+                ],
+                "col3c": [
+                    "col4c",
+                    "col4d",
+                    "col4e"
+                ],
+                "col3f": [
+                    "col4f"
+                ]
+            },
+            "col2g": {
+                "col3g": [
+                    "col4g",
+                    "col4h"
+                ],
+                "col3i": [
+                    "col4i",
+                    "col4j"
+                ]
+            }
+        },
+        "Col_1k": {
+            "col2k": {
+                "col3k": [
+                    "col4k",
+                    "col4l"
+                ],
+                "col3m": [
+                    "col4m",
+                    "col4n",
+                    "col4o"
+                ]
+            },
+            "col2p": {
+                "col3p": [
+                    "col4p",
+                    "col4q"
+                ],
+                "col3r": [
+                    "col4r",
+                    "col4s",
+                    "col4t"
+                ]
+            }
+        }
+    },
+    "Contenidos y Unidades Temáticas": "Contenido 1\nContenido 2\n...\nContenido n",
+    "Enfoque de Aprendizaje y Enseñanza": "",
+    "Plan de Evaluaciones": "",
+    "Resultados de Aprendizaje":"Resultado 1\nResultado 2\n...\nResultado n",
+    "Materiales de Estudio": "[1] Álvaro Andrés Hamburguer Fernández, {\\it Escribir para objetivar el saber: Cómo producir artículos, libros, reseñas, textos y ensayos}. Segunda Edición, Bogotá, D.C., Universidad de La Salle, 2017.\n[2] William Ángel Salazar Pulido, {\\it Alta Redacción: Informes científicos, académicos, técnicos y administrativos}. Novena Edición, NET Educativa, Bogotá, D.C., 2009.\n[3] Rodrigo de Castro Korgi, {\\it El universo \\LaTeX}. Segunda Edición, Bogotá: Universidad Nacional de Colombia, 2003.\n[4] Hilary Glasman-Deal, {\\it Science Research Writing: For Non-Native Speakers of English}. Imperial College Press, London, 2010.\n[5] Estanislao Zuleta, {\\it Elogio de la dificultad y Otros ensayos}. Quinta Edición, Fundación Estanislao Zuleta, Cali, 2001.\n[6] Estanislao Zuleta, {\\it Arte y Filosofía}. Segunda Edición, Hombre Nuevo Editores, Fundación Estanislao Zuleta, Medellín, 2001.\n[7] Academias de la Lengua Española, {\\it Ortografía de la Lengua Española}. Editorial Espasa Calpe, S.A."
+}

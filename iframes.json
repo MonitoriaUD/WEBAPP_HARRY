@@ -1,0 +1,72 @@
+{
+    "programacion_basica": [
+        {
+            "titulo": "Juego Interactivo para aprender CSS",
+            "iframe": "<iframe src='https://aulasvirtuales.udistrital.edu.co/mod/hvp/embed.php?id=432127' width='1000' height='1114' frameborder='0' allowfullscreen='allowfullscreen' title='Juego Interactivo para aprender CSS'></iframe>"
+        },
+        {
+            "titulo": "Ejercicio practico en JAVA",
+            "iframe": "<iframe src='https://aulasvirtuales.udistrital.edu.co/mod/hvp/embed.php?id=429821' width='1000' height='1142' frameborder='0' allowfullscreen='allowfullscreen' title='Ejercicio practico en JAVA'></iframe>"
+        },
+        {
+            "titulo": "Ejercicio 3",
+            "iframe": "<iframe src='https://aulasvirtuales.udistrital.edu.co/mod/hvp/embed.php?id=426092' width='1000' height='255' frameborder='0' allowfullscreen='allowfullscreen' title='Uso de Java y MySQL'></iframe>"
+        }
+    ],
+    "programacion_orientada_a_objetos": [
+        {
+            "titulo": "Ejercicio 1",
+            "iframe": "<iframe src='ruta_del_ejercicio1.html' frameborder='0'></iframe>"
+        },
+        {
+            "titulo": "Ejercicio 2",
+            "iframe": "<iframe src='ruta_del_ejercicio2.html' frameborder='0'></iframe>"
+        },
+        {
+            "titulo": "Ejercicio 3",
+            "iframe": "<iframe src='ruta_del_ejercicio3.html' frameborder='0'></iframe>"
+        }
+    ],
+    "programacion_aplicada": [
+        {
+            "titulo": "Ejercicio 1",
+            "iframe": "<iframe src='ruta_del_ejercicio1.html' frameborder='0'></iframe>"
+        },
+        {
+            "titulo": "Ejercicio 2",
+            "iframe": "<iframe src='ruta_del_ejercicio2.html' frameborder='0'></iframe>"
+        },
+        {
+            "titulo": "Ejercicio 3",
+            "iframe": "<iframe src='ruta_del_ejercicio3.html' frameborder='0'></iframe>"
+        }
+    ],
+    "microprocesadores": [
+        {
+            "titulo": "Ejercicio 1",
+            "iframe": "<iframe src='ruta_del_ejercicio1.html' frameborder='0'></iframe>"
+        },
+        {
+            "titulo": "Ejercicio 2",
+            "iframe": "<iframe src='ruta_del_ejercicio2.html' frameborder='0'></iframe>"
+        },
+        {
+            "titulo": "Ejercicio 3",
+            "iframe": "<iframe src='ruta_del_ejercicio3.html' frameborder='0'></iframe>"
+        }
+    ],
+    "microcontroladores": [
+        {
+            "titulo": "Ejercicio 1",
+            "iframe": "<iframe src='ruta_del_ejercicio1.html' frameborder='0'></iframe>"
+        },
+        {
+            "titulo": "Ejercicio 2",
+            "iframe": "<iframe src='ruta_del_ejercicio2.html' frameborder='0'></iframe>"
+        },
+        {
+            "titulo": "Ejercicio 3",
+            "iframe": "<iframe src='ruta_del_ejercicio3.html' frameborder='0'></iframe>"
+        }
+    ]
+}
