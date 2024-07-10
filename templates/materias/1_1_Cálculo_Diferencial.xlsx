@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title></title>
+<meta content="LibreOffice 7.6.7.2 (Linux)" name="generator"/>
+<meta content="Mariam Rivas Diazgranados" name="author"/>
+<meta content="2021-05-06T13:03:46" name="created"/>
+<meta content="User" name="changedby"/>
+<meta content="2024-05-14T02:21:02" name="changed"/>
+<meta content="16.0300" name="AppVersion"/>
+<style type="text/css">
+		body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:"Calibri"; font-size:x-small }
+		a.comment-indicator:hover + comment { background:#ffd; position:absolute; display:block; border:1px solid black; padding:0.5em;  } 
+		a.comment-indicator { background:red; display:inline-block; border:1px solid black; width:0.5em; height:0.5em;  } 
+		comment { display:none;  } 
+	</style>
+</head>
+<body>
+<table border="0" cellspacing="0">
+<colgroup span="2" width="85"></colgroup>
+<colgroup width="136"></colgroup>
+<colgroup width="151"></colgroup>
+<colgroup width="144"></colgroup>
+<colgroup width="169"></colgroup>
+<colgroup width="103"></colgroup>
+<colgroup width="85"></colgroup>
+<colgroup width="122"></colgroup>
+<tr>
+<td align="center" colspan="2" height="141" rowspan="3" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><br/><img height="126" hspace="18" src="../../static/imagenes/Formato_html_7094052a.png" vspace="8" width="133"/>
+</td>
+<td align="center" colspan="3" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">FORMATO DE SYLLABUS</font></b></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Código: AA-FR-003</font></td>
+<td align="center" colspan="3" rowspan="3" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/><img height="64" hspace="45" src="../../static/imagenes/Formato_html_6e9c9feb.png" vspace="39" width="220"/>
+</font></td>
+</tr>
+<tr>
+<td align="center" colspan="3" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Macroproceso: Direccionamiento Estratégico</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Versión: 01</font></td>
+</tr>
+<tr>
+<td align="center" colspan="3" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Proceso: Autoevaluación y Acreditación</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Fecha de Aprobación: 27/07/2023</font></td>
+</tr>
+<tr>
+<td align="center" height="14" valign="middle"><br/></td>
+<td align="center" valign="middle"><br/></td>
+<td align="center" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" valign="middle"><font color="#000000"><br/></font></td>
+<td align="left" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" valign="middle"><font color="#000000"><br/></font></td>
+</tr>
+<form action="/modificar_syllabus" id="formulario-syllabus" method="POST">
+<tr>
+<td align="left" colspan="2" height="41" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">FACULTAD: </font></b></td>
+<td align="center" colspan="7" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">FACULTAD DE INGENIERÍA </font></b></td>
+</tr>
+<tr>
+<td align="left" colspan="2" height="40" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">PROYECTO CURRICULAR:</font></b></td>
+<td align="center" colspan="4" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">INGENIERÍA ELECTRÓNICA</font></b></td>
+<td align="center" colspan="2" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">CÓDIGO PLAN DE ESTUDIOS:</font></b></td>
+<td align="center" sdnum="1033;" sdval="919" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">919</font></b></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#DBDBDB" colspan="9" height="30" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">I. IDENTIFICACIÓN DEL ESPACIO ACADÉMICO</font></b></td>
+</tr>
+<tr>
+<td align="left" bgcolor="#D9D9D9" colspan="3" height="30" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">NOMBRE DEL ESPACIO ACADÉMICO: 			</font></b></td>
+<td align="center" bgcolor="#D9D9D9" colspan="6" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000"><br id="Espacio Academico"/></font></b></td>
+</tr>
+<tr>
+<td align="left" colspan="3" height="30" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Código del espacio académico:</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br id="Código del Espacio">1</br></font></td>
+<td align="left" colspan="3" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Número de créditos académicos:</font></td>
+<td align="center" colspan="2" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br id="Número de Créditos">4</br></font></td>
+</tr>
+<tr>
+<td align="left" colspan="3" height="30" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Distribución horas de trabajo:</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">HTD</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br id="Horas Trabajo Directo">4</br></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">HTC</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br id="Horas Trabajo Colaborativo">2</br></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">HTA</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br id="Horas Trabajo Autónomo">6</br></font></td>
+</tr>
+<tr>
+<td align="left" colspan="3" height="30" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Tipo de espacio académico:</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Asignatura</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Cátedra</font></td>
+<td align="left" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9D9D9" colspan="9" height="30" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">NATURALEZA DEL ESPACIO ACADÉMICO:</font></b></td>
+</tr>
+<tr>
+<td align="center" height="36" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Obligatorio<br/> Básico</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br id="Básico">X</br></font></td>
+<td align="center" colspan="2" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Obligatorio<br/>Complementario</font></td>
+<td align="left" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br id="Complementario"></br></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Electivo Intrínseco</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br id="Intríseco"></br></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Electivo Extrínseco</font></td>
+<td align="left" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br id="Extrínseco"></br></font></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9D9D9" colspan="9" height="29" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">CARÁCTER DEL ESPACIO ACADÉMICO:</font></b></td>
+</tr>
+<tr>
+<td align="center" height="32" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Teórico</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br id="Teórico">X</br></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Práctico</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br id="Práctico"></br></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Teórico-Práctico</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br id="Teórico-práctico"></br></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Otros:</font></td>
+<td align="left" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="left" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Cuál:_______</font></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9D9D9" colspan="9" height="30" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">MODALIDAD DE OFERTA DEL ESPACIO ACADÉMICO:</font></b></td>
+</tr>
+<tr>
+<td align="center" height="69" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Presencial</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">X</font></b></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Presencial con incorporación de TIC</font></td>
+<td align="left" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Virtual</font></td>
+<td align="left" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Otros:</font></td>
+<td align="left" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="left" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Cuál:_______</font></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9D9D9" colspan="9" height="32" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">II.  SUGERENCIAS DE SABERES Y CONOCIMIENTOS PREVIOS</font></b></td>
+</tr>
+<tr>
+<td align="left" colspan="9" height="141" rowspan="5" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><textarea id="Conocimientos previos del curso" name="Conocimientos previos del curso" placeholder="Conocimientos previos del curso" style="resize: none; height: 200px; width: 1050px;"></textarea></font></td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9D9D9" colspan="9" height="35" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">III. JUSTIFICACIÓN DEL ESPACIO ACADÉMICO</font></b></td>
+</tr>
+<tr>
+<td align="justify" colspan="9" height="208" rowspan="5" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><textarea id="Justificacion Del Espacio" name="justificacion" placeholder="Justificación del espacio" style="resize: none; height: 200px; width: 1050px;">Las competencias del perfil a las que contribuye la asignatura son: Esta asignatura se encuentra inscrita en el componente de formación de las ciencias básicas definidas por el MEN y ACOFI para las ingenierías. El Cálculo Diferencial estudia el problema de la variación o cambio a través de los conceptos de límite y derivadas de una función de variable real a valor real. El concepto de derivada se interpreta como un proceso que antecede a la obtención del límite, es decir, el paso al límite de vital importancia para la interpretación geométrica y física de la derivada. Por ejemplo, la descripción rigurosa del movimiento de una partícula que se mueve a lo largo de una curva en el plano requiere definiciones formales de velocidad (no constante) y aceleración usando el concepto de la Derivada. La derivada como herramienta permite resolver problemas de máximos y mínimos, análisis de graficas de funciones y problemas de razón de cambio. La aplicabilidad de la derivada en la ingeniería surge en problemas tales como: vibraciones en sistemas mecánicos, eléctricos, y razón de cambio entre otros. El estudiante debe desarrollar competencias necesarias para comprender el concepto de la derivada y aplicarlo en diferentes contextos de los espacios académicos de las ciencias básicas. (Página 14 y 15 según publicación Con Acreditación Institucional De Alta Calidad Proyecto Educativo del Programa Proyecto Curricular de Ingeniería Electrónica de septiembre de 2017). Se sugiere que el estudiante tenga conocimientos básicos en álgebra, números reales e imaginarios puros, geometría analítica y trigonometría.</textarea></font></td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9D9D9" colspan="9" height="35" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">IV. OBJETIVOS DEL ESPACIO ACADÉMICO (GENERAL Y ESPECÍFICOS)</font></b></td>
+</tr>
+<tr>
+<td align="left" colspan="9" height="257" rowspan="5" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="top"><font color="#000000"><textarea id="Objetivos" name="Objetivos" placeholder="Objetivos" style="resize: none; height: 200px; width: 1050px;"> OBJETIVO GENERAL 
+ Como espacio académico fundamental para la gran mayoría de carreras profesionales, para el futuro ingeniero electrónico, el cálculo diferencial debe considerarse como la fuente inicial que permite establecer el rigor exigido en el área de las matemáticas para Ingeniería. Para el estudiante de Ingeniería, es necesaria la introducción de formas de lenguaje rigurosas y el uso de la lógica en la argumentación. En este espacio académico se debe fortalecer la noción de Derivada y sus aplicaciones que permitan generar competencias en la solución de problemas.
+
+OBJETIVOS ESPECIFICOS 
+Fundamentar a los estudiantes en los aspectos teóricos del cálculo diferencial, solución de ejercicios, problemas de los textos de cálculo diferencial y en la utilización de recursos computacionales. 
+ 2. Fundamentar en el estudiante el concepto de función y las características del grafo de una función, de modo que relacione cada expresión analítica con un tipo de gráfica. 3. Comprender el concepto de límite y como consecuencia el desarrollo de otros conceptos tales como continuidad, convergencia de sucesiones, derivadas, variación infinitesimal y razones de cambio los cuales fundamentan el estudio del cálculo en todas sus dimensiones junto con sus aplicaciones. 
+ 3. Comprender el concepto de límite y como consecuencia el desarrollo de otros conceptos tales como continuidad, convergencia de sucesiones, derivadas, variación infinitesimal y razones de cambio los cuales fundamentan el estudio del cálculo en todas sus dimensiones junto con sus aplicaciones.
+Desarrollar en el estudiante habilidades en el manejo de las propiedades y las reglas de diferenciación, y en el empleo de las herramientas teóricas para la resolución de problemas relacionados con la ingeniería.</textarea></font></td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9D9D9" colspan="9" height="36" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">V. PROPÓSITOS DE FORMACIÓN Y DE APRENDIZAJE (PFA) DEL ESPACIO ACADÉMICO </font></b></td>
+</tr>
+<tr>
+<td align="center" colspan="4" height="25" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000">Competencias (CEA)</font></td>
+<td align="center" colspan="2" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000">Dominio-Nivel</font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000">RA (código)</font></td>
+<td align="center" colspan="2" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000">Resultados de Aprendizaje</font></td>
+</tr>
+<tr>
+<td align="center" colspan="4" height="520" rowspan="6" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><textarea id="Competencias" name="Competencias" placeholder="Competencias" style="resize: none; height: 400px; width: 400px;">1.Se espera que a través del curso el estudiante domine e interprete el lenguaje matemático, y desarrolle competencias genéricas instrumentales que le permitan diseñar, resolver y expresar situaciones que se presentan en su vida cotidiana y en el entorno profesional.
+2. Se espera que a través del curso, el estudiante domine e interprete el lenguaje matemático y desarrolle competencias genéricas instrumentales que le permitan diseñar, resolver y expresar situaciones que se presentan en su vida cotidiana y en el entorno profesional.
+3. Define, interpreta y conceptualiza la función para representar situaciones de modelado por medio de lenguaje matemático y la representación gráfica de la misma.
+4. Utiliza medios computacionales como un medio en la comprensión del concepto de límite para analizar y entender la continuidad y la diferenciabilidad.
+5. Comprende el concepto de diferenciabilidad como una razón de cambio instantáneo, para modelar fenómenos físicos que involucren problemáticas concretas.
+6.Relaciona los conocimientos adquiridos del cálculo diferencial con las ciencias básicas para resolver problemas relacionados con variación o cambio.</textarea></font></td>
+<td align="center" colspan="2" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="justify" colspan="2" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><textarea id="Resultados de Aprendizaje1" name="Resultados de Aprendizaje1" placeholder="Resultados de Aprendizaje1" style="resize: none; height: 50px; width: 200px;">1.Identificar cuándo una función es derivable. </textarea></font></td>
+</tr>
+<tr>
+<td align="center" colspan="2" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="justify" colspan="2" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><textarea id="Resultados de Aprendizaje2" name="Resultados de Aprendizaje2" placeholder="Resultados de Aprendizaje2" style="resize: none; height: 50px; width: 200px;">2. Aplicar correctamente los criterios de función continua en la solución de problemas.</textarea></font></td>
+</tr>
+<tr>
+<td align="center" colspan="2" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="justify" colspan="2" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><textarea id="Resultados de Aprendizaje3" name="Resultados de Aprendizaje3" placeholder="Resultados de Aprendizaje3" style="resize: none; height: 50px; width: 200px;">3. Identificar cuando una relación es función.</textarea></font></td>
+</tr>
+<tr>
+<td align="center" colspan="2" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="justify" colspan="2" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><textarea id="Resultados de Aprendizaje4" name="Resultados de Aprendizaje4" placeholder="Resultados de Aprendizaje4" style="resize: none; height: 50px; width: 200px;">4. Relacionar el concepto de pendiente de una recta tangente con el de razón de cambio.</textarea></font></td>
+</tr>
+<tr>
+<td align="center" colspan="2" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="justify" colspan="2" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><textarea id="Resultados de Aprendizaje5" name="Resultados de Aprendizaje5" placeholder="Resultados de Aprendizaje5" style="resize: none; height: 50px; width: 200px;">5.Aplicar los teoremas de derivadas en la solución de problemas.</textarea></font></td>
+</tr>
+<tr>
+<td align="center" colspan="2" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="justify" colspan="2" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9D9D9" colspan="9" height="25" style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">VI.  CONTENIDOS TEMÁTICOS</font></b></td>
+</tr>
+<tr>
+<td align="left" colspan="9" height="226" rowspan="5" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><textarea id="Contenidos y Unidades Temáticas" name="Contenidos y Unidades Temáticas" placeholder="Contenidos y Unidades Temáticas" style="resize: none; height: 200px; width: 1050px;">Unidad 1: Relaciones y Funciones.
+
+Conceptualización de función. Identificación de Dominio y rango de una función.
+Tipos de Funciones y gráficas: lineal, cuadrática, cúbica, polinómicas, racionales, parte entera, valor absoluto, a trozos, exponencial, logarítmica, trigonométricas, pares, impares.
+Operaciones entre funciones: Adición, producto, composición (incluidas las funciones a trozos).
+Desplazamientos horizontales y verticales de las gráficas de las funciones.
+Funciones inyectivas, sobreyectivas, biyectivas, funciones inversas (incluyendo las trigonométricas). Dominio, rango, gráficas y propiedades de funciones inversas.
+Funciones como modelos matemáticos
+
+ 
+Unidad 2: Límites y Continuidad.
+
+Aproximación al concepto de límite.
+Definición formal de límite. Teoremas sobre límites.
+Límites laterales
+Límites al infinito y en el infinito.
+Asíntotas verticales, horizontales y oblicuas.
+Continuidad: teoremas sobre continuidad, teorema del valor intermedio
+
+
+Unidad 3: Derivadas. 
+
+ Definición de la derivada de una función. Derivada en un punto.
+Interpretación de la derivada como: pendiente de la recta tangente a la gráfica de una función, velocidad instantánea y como una razón de cambio.
+Teoremas sobre diferenciabilidad de funciones. (Reglas de derivación):
+Derivadas de funciones trigonométricas, exponenciales, logarítmicas y sus inversas
+Derivada de una función compuesta y Regla de la cadena. 
+Derivación implícita.
+Teorema del valor Extremo, Teorema de Rolle y Teorema del valor medio
+Razones de cambio relacionadas.
+
+
+Unidad 4: Aplicaciones.
+
+ Comportamiento de las funciones y sus gráficas.
+Valores máximos y mínimos de funciones.
+Funciones crecientes y decrecientes, y criterio de la primera derivada.
+Funciones crecientes y decrecientes, y criterio de la primera derivada.
+Concavidad, puntos de inflexión, y criterio de la segunda derivada.
+Trazado de las gráficas de funciones y sus derivadas.
+Problemas de Optimización.
+Formas Indeterminadas y regla de L`Hopital</textarea></font></td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9D9D9" colspan="9" height="25" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">VII. ESTRATEGIAS DE ENSEÑANZA QUE FAVORECEN EL APRENDIZAJE</font></b></td>
+</tr>
+<tr>
+<td align="left" colspan="9" height="265" rowspan="5" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><textarea id="Metodologia" name="Metodologia" placeholder="Metodologia" style="resize: none; height: 200px; width: 1050px;"> La metodología del curso requiere que el estudiante realice la lectura previa de cada tema de clase. El docente, al iniciar la semana de clases, evaluará la lectura previa mediante un quiz o preguntas orales sobre los temas a tratar. Posteriormente, se desarrollarán y aclararán por el docente, utilizando como ayuda didáctica el tablero, el texto y las guías de clase. Cada tema estará acompañado de una exposición teórica y suficientes ejemplos de aplicación para aclarar el porqué de los conceptos teóricos leídos y explicados.
+Se buscará una alta participación de los estudiantes a través de talleres individuales y grupales realizados en la clase y fuera de ella, los cuales tendrán relación directa con los temas teóricos tratados en el curso, haciendo uso de la lectura previa y de la tecnología. Se propone también la realización de discusiones grupales en torno a problemas específicos, llevando a cabo evaluaciones periódicas para hacer un seguimiento constante sobre los progresos y dificultades en el proceso formativo del estudiante.
+Los estudiantes podrán disponer de espacios para asesoría por parte del profesor en los casos que así lo requieran.</textarea></font></td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9D9D9" colspan="9" height="60" style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">VIII.  EVALUACIÓN</font></b></td>
+</tr>
+<tr>
+<td align="center" colspan="3" height="120" rowspan="2" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000">Resultados de aprendizaje (RA) a ser evaluados:</font></td>
+<td align="center" colspan="6" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000">Resultados de aprendizaje asociados a las evaluaciones</font></td>
+</tr>
+<tr>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000" size="1">Actividades Entregables</font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000" size="1">Talleres</font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000" size="1">Parciales</font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000" size="1">Informes de proyecto final</font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000" size="1">Proyecto final</font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000" size="1">Exposiciones</font></td>
+</tr>
+<tr>
+<td align="center" colspan="3" height="100" rowspan="4" style="border-top: 1px hidden #000000; border-bottom: 1px solid #000000" valign="middle"><font color="#000000">Tipo de evaluación</font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+</tr>
+<tr>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+</tr>
+<tr>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px hidden #000000; border-bottom: 1px hidden #000000; border-left: 1px hidden #000000; border-right: 1px hidden #000000" valign="middle"><font color="#000000"><br/></font></td>
+</tr>
+<tr>
+<td align="center" style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+</tr>
+<tr>
+<td align="center" colspan="3" height="33" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Porcentaje de evaluación (%)</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+</tr>
+<tr>
+<td align="center" colspan="3" height="25" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Trabajo Individual (I) o Grupal (G)</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+</tr>
+<tr>
+<td align="center" colspan="3" height="25" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Tipo de nota</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">0-5</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">0-5</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">0-5</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">0-5</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">0-5</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">0-5</font></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9D9D9" colspan="9" height="25" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">IX. MEDIOS Y RECURSOS EDUCATIVOS</font></b></td>
+</tr>
+<tr>
+<td align="center" colspan="9" height="83" rowspan="3" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000"><br/></font></b></td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9D9D9" colspan="9" height="25" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">X. PRÁCTICAS ACADÉMICAS - SALIDAS DE CAMPO</font></b></td>
+</tr>
+<tr>
+<td align="center" colspan="9" height="195" rowspan="3" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000"><br/></font></b></td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9D9D9" colspan="9" height="55" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">XI.  BIBLIOGRAFÍA</font></b></td>
+</tr>
+<tr>
+<td align="center" colspan="9" height="248" rowspan="6" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="top"><font color="#000000"><textarea id="Materiales de Estudio" name="Materiales de Estudio" placeholder="Materiales de Estudio" style="resize: none; height: 200px; width: 1050px;">[1] James Stewart – Single Variable Calculus. 8th Edition. 2015. (Sugerido)
+[2] Tom Apostol – Calculus, Volúmenes I . 2th Edition.1975. Editorial Reverté. (Sugerido)
+[3] J. Hass, C. Heil, M. Weir - Thomas’ Calculus. 14th Edition. 2017. Editorial Pearson.
+[4] Ron Larson – Calculus. 10th Edition 2013.
+[5]M. Spivak – Calculus, 4th edición original. 2015. Editorial Reverté.</textarea></font></td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9D9D9" colspan="9" height="20" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><b><font color="#000000">XII. SEGUIMIENTO Y ACTUALIZACIÓN DEL SYLLABUS</font></b></td>
+</tr>
+<tr>
+<td align="left" colspan="3" height="20" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Fecha revisión por Consejo Curricular:</font></td>
+<td align="center" colspan="6" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+</tr>
+<tr>
+<td align="left" height="40" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Fecha aprobación por Consejo Curricular:</font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" colspan="3" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000">Número de acta:</font></td>
+<td align="center" colspan="2" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle"><font color="#000000"><br/></font></td>
+</tr>
+</form>
+</table>
+<!-- ************************************************************************** -->
+</body>
+</html>

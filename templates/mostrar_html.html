@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Universidad</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.3/xlsx.full.min.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='Syllabus/styles.css') }}">
+</head>
+<body>
+    <header>
+        <img src="../../static/Syllabus/logo.jpg" alt="Logo de la universidad">
+        <h1>Universidad Distrital Francisco Jose de Caldas</h1>
+        <h3> Desarrollado por: Harryson Daniel Guerrero Rosas 20191005102</h3>
+    </header>
+    <main>
+        <h1>Modificar Syllabus</h1>
+        <form action="{{ url_for('generar_syllabus', filename=filename) }}" method="POST">
+        <div>
+            {{ formato_html | safe }}
+        </div>
+        </form>
+        <button type="submit">Guardar cambios de Syllabus</button>
+        
+        <h2><a href="{{ url_for('descargar_html', filename=filename) }}">Descargar HTML</a></h2>
+
+        <form action="{{ url_for('generate_excel', filename=filename) }}" method="POST">
+            <button type="submit">Descargar Excel</button>
+        </form>
+    
+        
+    </main>
+    <script src="/static/Syllabus/script.js"></script>
+</body>
+</html>

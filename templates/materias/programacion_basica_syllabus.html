@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Universidad</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.3/xlsx.full.min.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='Syllabus/styles.css') }}">
+</head>
+<body>
+    <header>
+        <img src="../../static/Syllabus/logo.jpg" alt="Logo de la universidad">
+        <h1>Universidad Distrital Francisco Jose de Caldas</h1>
+        <h3> Desarrollado por: Harryson Daniel Guerrero Rosas 20191005102</h3>
+    </header>
+    <main>
+        <h2>Modifique el Syllabus:</h2>
+
+        
+        <div id="jsonEditorDiv">
+            <!-- Aquí se mostrarán los valores del JSON -->
+        </div>
+       
+        <h1>Modificarrrr JSON</h1>
+        <button onclick="modificarJSON()">Modificar JSON</button>
+        
+        <div id="NewjsonValues">
+            <!-- Aquí se mostrarán los valores del JSON -->
+        </div>
+        <input type="file" id="upload" />
+        <button id="process">Process Excel</button>
+        <button id="download">Descargar Excel</button>
+       
+    </main>
+    <script src="../../static/Syllabus/script.js"></script>
+    
+</body>
+</html>

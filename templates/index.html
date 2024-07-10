@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programa Ingenieria Electrónica</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1>Programa Ingenieria Electrónica</h1>
+            <nav>
+                <ul class="nav">
+                    <li><a href="#overview">Revision</a></li>
+                    <li><a href="#curriculum">Pensum Ingenieria Electrónica</a></li>
+                    <li><a href="#contact">Creditos</a></li>
+                    <li><a href="https://fb-webpageud.web.app/PagRoles/SubPaginasProfesores/ListadoMaterias.html">Volver A Pagina de Profesores</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="overview" class="section">
+            <div class="container">
+                <h2>Proyecto curricular de ingeniería electrónica</h2>
+                <p>
+                    El actualmente denominado proyecto curricular de Ingeniería Electrónica 
+                    fue uno de los primeros programas de la Universidad Distrital 
+                    “Francisco José de Caldas” y fue base para el desarrollo de la Facultad 
+                    de Ingeniería y de las demás Facultades existentes al interior del alma mater.
+
+                </p> 
+                <p>     
+                    El Ingeniero Electrónico egresado de la Universidad Distrital es 
+                    una persona con sólidos conocimientos en ciencia, tecnología e 
+                    investigación, conscientes de su entorno social, cívico y ambiental
+                    , preparados para liderar y brindar soluciones con sentido creativo, 
+                    crítico, innovador; como ser social es recursivo y proactivo; formado 
+                    en diversos campos, con conocimientos fundamentados en los últimos avances
+                     teóricos y tecnológicos de las disciplinas soporte de su formación y en 
+                     los últimos avances metodológicos en TIC que ha adquirido y aprehendido en el 
+                     transcurso de su vida universitaria para crear, proponer, abstraer, adaptar,
+                      interpretar, modelar, argumentar, diseñar, desarrollar, implementar, evaluar,
+                       mejorar, auditar y liderar proyectos complejos en las diferentes áreas de su 
+                       formación como Ingeniero.
+                </p>
+            </div>
+        </section>
+
+        <section id="curriculum" class="section bg-light">
+            <div class="container">
+                <h2>Pensum Ingenieria Electronica</h2>
+
+                <h3>Por favor seleccione la materia al cambia el syllabus </h3>
+                <ul>
+                    <li><strong>Semestre I</strong>
+                        <ul>
+                            <li><a href="{{ url_for('generar_syllabus', filename='1_1_Cálculo_Diferencial.json') }}">Cálculo Diferencial</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='1_2_Programación_Básica.json') }}">Programación Básica</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='1_3_Física_I_Mecánica_Newtoniana.json') }}">Física I: Mecánica Newtoniana</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='1_4_Cátedra_Francisco_José_de_Caldas.json') }}">Cátedra F.J. de C.</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='1_5_Producción_y_Comprensión_de_Textos.json') }}">Producción y Comprensión de Textos</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='1_6_Seminario_de_Ingeniería.json') }}">Seminario de ingeniería</a></li>
+                        </ul>
+                    </li>
+                    <li><strong>Semestre II</strong>
+                        <ul>
+                            <li><a href="{{ url_for('generar_syllabus', filename='2_7_Cálculo_Integral.json') }}">Cálculo Integral</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='2_8_Historia_y_Cultura_Colombiana.json') }}">Historia y Cultura Colombiana</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='2_9_Álgebra_Lineal.json') }}">Álgebra Lineal</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='2_10_Programación_Orientada_a_Objetos.json') }}">Programación Orientada a Objetos</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='2_13_Física_II_Electromagnetismo.json') }}">Física II: Electromagnetismo</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='2_14_Análisis_de_Circuitos_I_y_Laboratorio.json') }}">Análisis de Circuitos I y Lab.</a></li>
+                        </ul>
+                    </li>
+                    <li><strong>Semestre III</strong>
+                        <ul>
+                            <li><a href="{{ url_for('generar_syllabus', filename='3__Electiva_Extrínseca_I.json') }}">Electiva extrínseca I</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='3_12_Cátedra_Democracia_y_Ciudadanía.json') }}">Cátedra democracia y ciudadania</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='3_16_Cálculo_Multivariado.json') }}">Cálculo Multivariado </a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='3_17_Análisis_de_Circuitos_II_y_Laboratorio.json') }}">Análisis de Circuitos II y Lab.</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='3_20_Física_III_Ondas_y_Física_Moderna.json') }}">Física III: Ondas y Fisica Moderna</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='3_88_Ecuaciones_Diferenciales.json') }}">Ecuaciones Diferenciales</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='3_91_Electrónica_I.json') }}">Electrónica I</a></li>
+                        </ul>
+                    </li>
+                    <li><strong>Semestre IV</strong>
+                        <ul>
+                            <li><a href="{{ url_for('generar_syllabus', filename='4_Segunda_Lengua_I.json') }}">Segunda Lengua I </a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='4_23_Probabilidades_y_Estadística.json') }}">Probabilidad y Estadistica </a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='4_24_Variable_Compleja.json') }}">Variable compleja</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='4_25_Electrónica_II.json') }}">Electrónica II</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='4_26_Programación_Aplicada.json') }}">Programación aplicada</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='4_27_Campos_Electromagnéticos.json') }}">Campos_electromagnéticos</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='4_28_Fundamentos_de_Circuitos_Digitales') }}">Fundamentos de circuitos digitales</a></li>
+                        </ul>
+                    </li>
+                    <li><strong>Semestre V</strong>
+                        <ul>
+                            <li><a href="{{ url_for('generar_syllabus', filename='5_29_Ondas_Electromagnéticas.json') }}">Ondas Electromagnéticas</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='5_30_Análisis_de_Fourier_Wavelets.json') }}">Analisis de Fourier Wavelets</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='5_31_Transformadores.json') }}">Transformadores</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='5_32_Electrónica_III.json') }}">Electrónica III</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='5_33_Análisis_y_Diseño_de_Microprocesadores.json') }}">Analisis y diseño de microprocesadores</a></li>
+                        </ul>
+                    </li>
+                    <li><strong>Semestre VI</strong>
+                        <ul>
+                            <li><a href="{{ url_for('generar_syllabus', filename='6__Electiva_Extrínseca_III.json') }}">Electiva Extrínseca III</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='6__Segunda_Lengua_II.json') }}">Segunda Lengua II</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='6_35_Comunicaciones_Analógicas.json') }}">Comunicaciones Analogicas</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='6_36_Motores_y_Generadores.json') }}">Motores y Generadores</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='6_37_Diseño_Digital_con_Microcontroladores.json') }}">Diseño digital con Microcontroladores</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='6_38_Señales_y_Sistemas.json') }}">Señales y Sistemas</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='6_40_Cátedra_de_Contexto.json') }}">Catedra de contexto</a></li>
+                            </ul>
+                    </li>
+                    <li><strong>Semestre VII</strong>
+                        <ul>
+                            <li><a href="{{ url_for('generar_syllabus', filename='7__Segunda_Lengua_III.json') }}">Segunda Lengua III</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='7_41_Comunicaciones_Digitales.json') }}">Comunicaciones Digitales</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='7_42_Física_de_Semiconductores.json') }}">Fisica de Semiconductores</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='7_43_Hombre_Sociedad_y_Ecologia.json') }}">Hombre sociedad y ecologia</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='7_44_Sistemas_Dinámicos.json') }}">Sistemas Dinánamicos</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='7_45_Electrónica_de_Potencia.json') }}">Electrónica de potencia</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='7_47_Economía.json') }}">Economica</a></li>
+                        </ul>
+                    </li>
+                    <li><strong>Semestre VIII</strong>
+                        <ul>
+                            <li><a href="{{ url_for('generar_syllabus', filename='8_48_Telecomunicaciones_I.json') }}">Telecomunicaciones I</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='8_49_Telemática_I.json') }}">Telematica I</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='8_50_Control_I.json') }}">Control I</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='8_51_Instrumentación_Industrial.json') }}">Instrumentación industrial</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='8_52_Bioingeniería_I.json') }}">BioIngenieria I</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='8_53_Ingeniería_Económica.json') }}">Ingenieria Económica</a></li>
+                        </ul>
+                    </li>
+                    <li><strong>Semestre IX</strong>
+                        <ul>
+                            <li><a href="{{ url_for('generar_syllabus', filename='9_54_Televisión.json') }}">Televisión</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='9_57_Bioingeniería_II.json') }}">Bioingeniería II</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='9_58_Control_II.json') }}">Control II</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='9_59_Nanotecnología_I.json') }}">Nanotecnologia I</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='9_61_DSP.json') }}">DSP</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='9_62_Telecomunicaciones_II.json') }}">Telecomunicaciones II</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='9_64_Inteligencia_Computacional_I.json') }}">Inteligencia Computacional I</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='9_65_Sistemas_Embebidos_I.json') }}">Sistemas Embebidos</a></li>
+                        </ul>
+                    </li>
+                    <li><strong>Semestre X</strong>
+                        <ul>
+                            <li><a href="{{ url_for('generar_syllabus', filename='10_67_Electrónica_Industrial.json') }}">Electrónica Industrial</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='10_68_Bioingeniería_III.json') }}">Bioingenieria III</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='10_69_Control_III.json') }}">Control III</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='10_70_Nanotecnología_II.json') }}">Nanotecnologia II</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='10_71_Telemática_III.json') }}">Telematica III</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='10_72_Procesamiento_Digital_de_Imágenes.json') }}">Procesamiento Digital de Imagenes</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='10_73_Telecomunicaciones_III.json') }}">Telecomunicaciones III</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='10_74_Televisión_Digital.json') }}">Televisión Digital</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='10_75_Inteligencia_Computacional_II.json') }}">Inteligencia Computacional II</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='10_78_Robótica_móvil.json') }}">Robótica móvil</a></li>
+                            <li><a href="{{ url_for('generar_syllabus', filename='Electiva Extrínseca II.json') }}">Electiva Extrínseca II</a></li>
+                            <li><a href="/syllabus">Modificar cualquier syllabus</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        
+
+        <section id="contact" class="section">
+            <div class="container">
+                <h2>Creditos</h2>
+                <p> Creado por Harryson Daniel Guerrero Rosas 20191005102</p>
+                <form class="contact-form">
+                    <label
